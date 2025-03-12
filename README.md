@@ -3,7 +3,7 @@ hier organisieren wir die Überflüge usw.
 derzeitiger Plan:
 
 
-Grober Plan zur Flugshow
+
 
 	Verfügbare Flugzeuge:
 		2 x Mirage 2000
